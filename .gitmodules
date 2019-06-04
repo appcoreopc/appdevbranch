@@ -1,0 +1,3 @@
+[submodule "appdeployment"]
+	path = appdeployment
+	url = https://github.com/appcoreopc/appdeployment.git
